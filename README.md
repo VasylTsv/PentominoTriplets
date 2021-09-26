@@ -8,3 +8,5 @@ If I did this today, I would probably try DLX instead of straightforward backtra
 The result was posted on Ed Pegg Jr.'s MathPuzzle.com. Apparently, somebody beat me to the complete solution (which is not surprising), but I haven't seen an explanation  how that other solution was found.
 
 The code may be a little rough, and it may run into small issues with modern compilers. It is presented here in the exact form I've got it all those years ago.
+
+The algorithm to enumerate all possible shapes is taken from [this page](http://kevingong.com/Polyominoes/ParallelPoly.html), which is amazingly still up.
